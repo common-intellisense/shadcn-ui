@@ -7,12 +7,12 @@
   "author": "Simon He",
   "license": "MIT",
   "funding": "https://github.com/sponsors/Simon-He95",
-  "homepage": "https://github.com/common-intellisense/shadcn-ui0#readme",
+  "homepage": "https://github.com/common-intellisense/shadcn-ui#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/common-intellisense/shadcn-ui0.git"
+    "url": "git+https://github.com/common-intellisense/shadcn-ui.git"
   },
-  "bugs": "https://github.com/Simon-He95/shadcn-ui0/issues",
+  "bugs": "https://github.com/Simon-He95/shadcn-ui/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
