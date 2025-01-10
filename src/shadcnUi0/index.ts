@@ -5,6 +5,7 @@ export function shadcnUi0() {
     uiName: 'shadcn-Ui0',
     map: getPropsMap(),
     lib: 'shadcn-Ui',
+    dynamicLib: '@/components/ui/${name}',
   }
 }
 
