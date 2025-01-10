@@ -4,18 +4,16 @@ import AccordionItem from './AccordionItem.json'
 import AccordionRoot from './AccordionRoot.json'
 import AccordionTrigger from './AccordionTrigger.json'
 import Alert from './Alert.json'
-import Alert_Description from './Alert_Description.json'
-import Alert_Title from './Alert_Title.json'
-import AlertAction from './AlertAction.json'
 import AlertCancel from './AlertCancel.json'
 import AlertContent from './AlertContent.json'
 import AlertDescription from './AlertDescription.json'
-import AlertOverlay from './AlertOverlay.json'
-import AlertPortal from './AlertPortal.json'
-import AlertRoot from './AlertRoot.json'
-import AlertTitle from './AlertTitle.json'
-import AlertTrigger from './AlertTrigger.json'
-import AspectRoot from './AspectRoot.json'
+import AlertDialogAction from './AlertDialogAction.json'
+import AlertDialogOverlay from './AlertDialogOverlay.json'
+import AlertDialogPortal from './AlertDialogPortal.json'
+import AlertDialogRoot from './AlertDialogRoot.json'
+import AlertDialogTitle from './AlertDialogTitle.json'
+import AlertDialogTrigger from './AlertDialogTrigger.json'
+import AspectRatioRoot from './AspectRatioRoot.json'
 import AvatarFallback from './AvatarFallback.json'
 import AvatarImage from './AvatarImage.json'
 import AvatarRoot from './AvatarRoot.json'
@@ -49,17 +47,17 @@ import CommandEmpty from './CommandEmpty.json'
 import CommandGroup from './CommandGroup.json'
 import CommandInput from './CommandInput.json'
 import CommandItem from './CommandItem.json'
-import ContextArrow from './ContextArrow.json'
 import ContextCheckboxItem from './ContextCheckboxItem.json'
-import ContextContent from './ContextContent.json'
-import ContextGroup from './ContextGroup.json'
-import ContextItem from './ContextItem.json'
-import ContextItemIndicator from './ContextItemIndicator.json'
-import ContextLabel from './ContextLabel.json'
+import ContextMenuArrow from './ContextMenuArrow.json'
+import ContextMenuContent from './ContextMenuContent.json'
+import ContextMenuGroup from './ContextMenuGroup.json'
+import ContextMenuItem from './ContextMenuItem.json'
+import ContextMenuItemIndicator from './ContextMenuItemIndicator.json'
+import ContextMenuLabel from './ContextMenuLabel.json'
+import ContextMenuRoot from './ContextMenuRoot.json'
 import ContextPortal from './ContextPortal.json'
 import ContextRadioGroup from './ContextRadioGroup.json'
 import ContextRadioItem from './ContextRadioItem.json'
-import ContextRoot from './ContextRoot.json'
 import ContextSeparator from './ContextSeparator.json'
 import ContextSub from './ContextSub.json'
 import ContextSubContent from './ContextSubContent.json'
@@ -79,22 +77,22 @@ import DrawerFooter from './DrawerFooter.json'
 import DrawerHeader from './DrawerHeader.json'
 import DrawerTitle from './DrawerTitle.json'
 import DrawerTrigger from './DrawerTrigger.json'
-import DropdownArrow from './DropdownArrow.json'
-import DropdownCheckboxItem from './DropdownCheckboxItem.json'
-import DropdownContent from './DropdownContent.json'
-import DropdownGroup from './DropdownGroup.json'
-import DropdownItem from './DropdownItem.json'
-import DropdownItemIndicator from './DropdownItemIndicator.json'
-import DropdownLabel from './DropdownLabel.json'
-import DropdownPortal from './DropdownPortal.json'
-import DropdownRadioGroup from './DropdownRadioGroup.json'
-import DropdownRadioItem from './DropdownRadioItem.json'
-import DropdownRoot from './DropdownRoot.json'
-import DropdownSeparator from './DropdownSeparator.json'
-import DropdownSub from './DropdownSub.json'
-import DropdownSubContent from './DropdownSubContent.json'
-import DropdownSubTrigger from './DropdownSubTrigger.json'
-import DropdownTrigger from './DropdownTrigger.json'
+import DropdownMenuArrow from './DropdownMenuArrow.json'
+import DropdownMenuCheckboxItem from './DropdownMenuCheckboxItem.json'
+import DropdownMenuContent from './DropdownMenuContent.json'
+import DropdownMenuGroup from './DropdownMenuGroup.json'
+import DropdownMenuItem from './DropdownMenuItem.json'
+import DropdownMenuItemIndicator from './DropdownMenuItemIndicator.json'
+import DropdownMenuLabel from './DropdownMenuLabel.json'
+import DropdownMenuPortal from './DropdownMenuPortal.json'
+import DropdownMenuRadioGroup from './DropdownMenuRadioGroup.json'
+import DropdownMenuRadioItem from './DropdownMenuRadioItem.json'
+import DropdownMenuRoot from './DropdownMenuRoot.json'
+import DropdownMenuSeparator from './DropdownMenuSeparator.json'
+import DropdownMenuSub from './DropdownMenuSub.json'
+import DropdownMenuSubContent from './DropdownMenuSubContent.json'
+import DropdownMenuSubTrigger from './DropdownMenuSubTrigger.json'
+import DropdownMenuTrigger from './DropdownMenuTrigger.json'
 import Form from './Form.json'
 import FormControl from './FormControl.json'
 import FormDescription from './FormDescription.json'
@@ -102,11 +100,11 @@ import FormField from './FormField.json'
 import FormItem from './FormItem.json'
 import FormLabel from './FormLabel.json'
 import FormMessage from './FormMessage.json'
-import HoverArrow from './HoverArrow.json'
-import HoverContent from './HoverContent.json'
-import HoverPortal from './HoverPortal.json'
-import HoverRoot from './HoverRoot.json'
-import HoverTrigger from './HoverTrigger.json'
+import HoverCardArrow from './HoverCardArrow.json'
+import HoverCardContent from './HoverCardContent.json'
+import HoverCardPortal from './HoverCardPortal.json'
+import HoverCardRoot from './HoverCardRoot.json'
+import HoverCardTrigger from './HoverCardTrigger.json'
 import Input from './Input.json'
 import InputOTP from './InputOTP.json'
 import InputOTPGroup from './InputOTPGroup.json'
@@ -130,15 +128,15 @@ import MenuSub from './MenuSub.json'
 import MenuSubContent from './MenuSubContent.json'
 import MenuSubTrigger from './MenuSubTrigger.json'
 import MenuTrigger from './MenuTrigger.json'
-import NavigationContent from './NavigationContent.json'
-import NavigationIndicator from './NavigationIndicator.json'
-import NavigationItem from './NavigationItem.json'
-import NavigationLink from './NavigationLink.json'
-import NavigationList from './NavigationList.json'
-import NavigationRoot from './NavigationRoot.json'
-import NavigationSub from './NavigationSub.json'
-import NavigationTrigger from './NavigationTrigger.json'
-import NavigationViewport from './NavigationViewport.json'
+import NavigationMenuContent from './NavigationMenuContent.json'
+import NavigationMenuIndicator from './NavigationMenuIndicator.json'
+import NavigationMenuItem from './NavigationMenuItem.json'
+import NavigationMenuLink from './NavigationMenuLink.json'
+import NavigationMenuList from './NavigationMenuList.json'
+import NavigationMenuRoot from './NavigationMenuRoot.json'
+import NavigationMenuSub from './NavigationMenuSub.json'
+import NavigationMenuTrigger from './NavigationMenuTrigger.json'
+import NavigationMenuViewport from './NavigationMenuViewport.json'
 import Pagination from './Pagination.json'
 import PaginationContent from './PaginationContent.json'
 import PaginationEllipsis from './PaginationEllipsis.json'
@@ -155,14 +153,14 @@ import PopoverRoot from './PopoverRoot.json'
 import PopoverTrigger from './PopoverTrigger.json'
 import ProgressIndicator from './ProgressIndicator.json'
 import ProgressRoot from './ProgressRoot.json'
-import RadioIndicator from './RadioIndicator.json'
-import RadioItem from './RadioItem.json'
-import RadioRoot from './RadioRoot.json'
+import RadioGroupIndicator from './RadioGroupIndicator.json'
+import RadioGroupItem from './RadioGroupItem.json'
+import RadioGroupRoot from './RadioGroupRoot.json'
 import ResizableHandle from './ResizableHandle.json'
 import ResizablePanel from './ResizablePanel.json'
 import ResizablePanelGroup from './ResizablePanelGroup.json'
+import ScrollAreaRoot from './ScrollAreaRoot.json'
 import ScrollCorner from './ScrollCorner.json'
-import ScrollRoot from './ScrollRoot.json'
 import ScrollScrollbar from './ScrollScrollbar.json'
 import ScrollThumb from './ScrollThumb.json'
 import ScrollViewport from './ScrollViewport.json'
@@ -214,7 +212,8 @@ import ToastProvider from './ToastProvider.json'
 import ToastRoot from './ToastRoot.json'
 import ToastTitle from './ToastTitle.json'
 import ToastViewport from './ToastViewport.json'
-import ToggleItem from './ToggleItem.json'
+import ToggleGroupItem from './ToggleGroupItem.json'
+import ToggleGroupRoot from './ToggleGroupRoot.json'
 import ToggleRoot from './ToggleRoot.json'
 import TooltipArrow from './TooltipArrow.json'
 import TooltipContent from './TooltipContent.json'
@@ -231,18 +230,16 @@ export function getPropsMap() {
     AccordionRoot,
     AccordionTrigger,
     Alert,
-    AlertAction,
+    AlertDialogAction,
     AlertCancel,
     AlertContent,
     AlertDescription,
-    AlertOverlay,
-    AlertPortal,
-    AlertRoot,
-    AlertTitle,
-    AlertTrigger,
-    Alert_Description,
-    Alert_Title,
-    AspectRoot,
+    AlertDialogOverlay,
+    AlertDialogPortal,
+    AlertDialogRoot,
+    AlertDialogTitle,
+    AlertDialogTrigger,
+    AspectRatioRoot,
     AvatarFallback,
     AvatarImage,
     AvatarRoot,
@@ -276,17 +273,17 @@ export function getPropsMap() {
     CommandGroup,
     CommandInput,
     CommandItem,
-    ContextArrow,
+    ContextMenuArrow,
     ContextCheckboxItem,
-    ContextContent,
-    ContextGroup,
-    ContextItem,
-    ContextItemIndicator,
-    ContextLabel,
+    ContextMenuContent,
+    ContextMenuGroup,
+    ContextMenuItem,
+    ContextMenuItemIndicator,
+    ContextMenuLabel,
     ContextPortal,
     ContextRadioGroup,
     ContextRadioItem,
-    ContextRoot,
+    ContextMenuRoot,
     ContextSeparator,
     ContextSub,
     ContextSubContent,
@@ -306,22 +303,22 @@ export function getPropsMap() {
     DrawerHeader,
     DrawerTitle,
     DrawerTrigger,
-    DropdownArrow,
-    DropdownCheckboxItem,
-    DropdownContent,
-    DropdownGroup,
-    DropdownItem,
-    DropdownItemIndicator,
-    DropdownLabel,
-    DropdownPortal,
-    DropdownRadioGroup,
-    DropdownRadioItem,
-    DropdownRoot,
-    DropdownSeparator,
-    DropdownSub,
-    DropdownSubContent,
-    DropdownSubTrigger,
-    DropdownTrigger,
+    DropdownMenuArrow,
+    DropdownMenuCheckboxItem,
+    DropdownMenuContent,
+    DropdownMenuGroup,
+    DropdownMenuItem,
+    DropdownMenuItemIndicator,
+    DropdownMenuLabel,
+    DropdownMenuPortal,
+    DropdownMenuRadioGroup,
+    DropdownMenuRadioItem,
+    DropdownMenuRoot,
+    DropdownMenuSeparator,
+    DropdownMenuSub,
+    DropdownMenuSubContent,
+    DropdownMenuSubTrigger,
+    DropdownMenuTrigger,
     Form,
     FormControl,
     FormDescription,
@@ -329,11 +326,11 @@ export function getPropsMap() {
     FormItem,
     FormLabel,
     FormMessage,
-    HoverArrow,
-    HoverContent,
-    HoverPortal,
-    HoverRoot,
-    HoverTrigger,
+    HoverCardArrow,
+    HoverCardContent,
+    HoverCardPortal,
+    HoverCardRoot,
+    HoverCardTrigger,
     Input,
     InputOTP,
     InputOTPGroup,
@@ -357,15 +354,15 @@ export function getPropsMap() {
     MenuSubContent,
     MenuSubTrigger,
     MenuTrigger,
-    NavigationContent,
-    NavigationIndicator,
-    NavigationItem,
-    NavigationLink,
-    NavigationList,
-    NavigationRoot,
-    NavigationSub,
-    NavigationTrigger,
-    NavigationViewport,
+    NavigationMenuContent,
+    NavigationMenuIndicator,
+    NavigationMenuItem,
+    NavigationMenuLink,
+    NavigationMenuList,
+    NavigationMenuRoot,
+    NavigationMenuSub,
+    NavigationMenuTrigger,
+    NavigationMenuViewport,
     Pagination,
     PaginationContent,
     PaginationEllipsis,
@@ -382,14 +379,14 @@ export function getPropsMap() {
     PopoverTrigger,
     ProgressIndicator,
     ProgressRoot,
-    RadioIndicator,
-    RadioItem,
-    RadioRoot,
+    RadioGroupIndicator,
+    RadioGroupItem,
+    RadioGroupRoot,
     ResizableHandle,
     ResizablePanel,
     ResizablePanelGroup,
     ScrollCorner,
-    ScrollRoot,
+    ScrollAreaRoot,
     ScrollScrollbar,
     ScrollThumb,
     ScrollViewport,
@@ -441,8 +438,9 @@ export function getPropsMap() {
     ToastRoot,
     ToastTitle,
     ToastViewport,
-    ToggleItem,
+    ToggleGroupItem,
     ToggleRoot,
+    ToggleGroupRoot,
     TooltipArrow,
     TooltipContent,
     TooltipPortal,
@@ -460,18 +458,16 @@ export function getComponentMap() {
     [AccordionRoot, AccordionRoot.name, `<${AccordionRoot.name}></${AccordionRoot.name}`],
     [AccordionTrigger, AccordionTrigger.name, `<${AccordionTrigger.name}></${AccordionTrigger.name}`],
     [Alert, Alert.name, `<${Alert.name}></${Alert.name}`],
-    [AlertAction, AlertAction.name, `<${AlertAction.name}></${AlertAction.name}`],
+    [AlertDialogAction, AlertDialogAction.name, `<${AlertDialogAction.name}></${AlertDialogAction.name}`],
     [AlertCancel, AlertCancel.name, `<${AlertCancel.name}></${AlertCancel.name}`],
     [AlertContent, AlertContent.name, `<${AlertContent.name}></${AlertContent.name}`],
     [AlertDescription, AlertDescription.name, `<${AlertDescription.name}></${AlertDescription.name}`],
-    [AlertOverlay, AlertOverlay.name, `<${AlertOverlay.name}></${AlertOverlay.name}`],
-    [AlertPortal, AlertPortal.name, `<${AlertPortal.name}></${AlertPortal.name}`],
-    [AlertRoot, AlertRoot.name, `<${AlertRoot.name}></${AlertRoot.name}`],
-    [AlertTitle, AlertTitle.name, `<${AlertTitle.name}></${AlertTitle.name}`],
-    [AlertTrigger, AlertTrigger.name, `<${AlertTrigger.name}></${AlertTrigger.name}`],
-    [Alert_Description, Alert_Description.name, `<${Alert_Description.name}></${Alert_Description.name}`],
-    [Alert_Title, Alert_Title.name, `<${Alert_Title.name}></${Alert_Title.name}`],
-    [AspectRoot, AspectRoot.name, `<${AspectRoot.name}></${AspectRoot.name}`],
+    [AlertDialogOverlay, AlertDialogOverlay.name, `<${AlertDialogOverlay.name}></${AlertDialogOverlay.name}`],
+    [AlertDialogPortal, AlertDialogPortal.name, `<${AlertDialogPortal.name}></${AlertDialogPortal.name}`],
+    [AlertDialogRoot, AlertDialogRoot.name, `<${AlertDialogRoot.name}></${AlertDialogRoot.name}`],
+    [AlertDialogTitle, AlertDialogTitle.name, `<${AlertDialogTitle.name}></${AlertDialogTitle.name}`],
+    [AlertDialogTrigger, AlertDialogTrigger.name, `<${AlertDialogTrigger.name}></${AlertDialogTrigger.name}`],
+    [AspectRatioRoot, AspectRatioRoot.name, `<${AspectRatioRoot.name}></${AspectRatioRoot.name}`],
     [AvatarFallback, AvatarFallback.name, `<${AvatarFallback.name}></${AvatarFallback.name}`],
     [AvatarImage, AvatarImage.name, `<${AvatarImage.name}></${AvatarImage.name}`],
     [AvatarRoot, AvatarRoot.name, `<${AvatarRoot.name}></${AvatarRoot.name}`],
@@ -505,17 +501,17 @@ export function getComponentMap() {
     [CommandGroup, CommandGroup.name, `<${CommandGroup.name}></${CommandGroup.name}`],
     [CommandInput, CommandInput.name, `<${CommandInput.name}></${CommandInput.name}`],
     [CommandItem, CommandItem.name, `<${CommandItem.name}></${CommandItem.name}`],
-    [ContextArrow, ContextArrow.name, `<${ContextArrow.name}></${ContextArrow.name}`],
+    [ContextMenuArrow, ContextMenuArrow.name, `<${ContextMenuArrow.name}></${ContextMenuArrow.name}`],
     [ContextCheckboxItem, ContextCheckboxItem.name, `<${ContextCheckboxItem.name}></${ContextCheckboxItem.name}`],
-    [ContextContent, ContextContent.name, `<${ContextContent.name}></${ContextContent.name}`],
-    [ContextGroup, ContextGroup.name, `<${ContextGroup.name}></${ContextGroup.name}`],
-    [ContextItem, ContextItem.name, `<${ContextItem.name}></${ContextItem.name}`],
-    [ContextItemIndicator, ContextItemIndicator.name, `<${ContextItemIndicator.name}></${ContextItemIndicator.name}`],
-    [ContextLabel, ContextLabel.name, `<${ContextLabel.name}></${ContextLabel.name}`],
+    [ContextMenuContent, ContextMenuContent.name, `<${ContextMenuContent.name}></${ContextMenuContent.name}`],
+    [ContextMenuGroup, ContextMenuGroup.name, `<${ContextMenuGroup.name}></${ContextMenuGroup.name}`],
+    [ContextMenuItem, ContextMenuItem.name, `<${ContextMenuItem.name}></${ContextMenuItem.name}`],
+    [ContextMenuItemIndicator, ContextMenuItemIndicator.name, `<${ContextMenuItemIndicator.name}></${ContextMenuItemIndicator.name}`],
+    [ContextMenuLabel, ContextMenuLabel.name, `<${ContextMenuLabel.name}></${ContextMenuLabel.name}`],
     [ContextPortal, ContextPortal.name, `<${ContextPortal.name}></${ContextPortal.name}`],
     [ContextRadioGroup, ContextRadioGroup.name, `<${ContextRadioGroup.name}></${ContextRadioGroup.name}`],
     [ContextRadioItem, ContextRadioItem.name, `<${ContextRadioItem.name}></${ContextRadioItem.name}`],
-    [ContextRoot, ContextRoot.name, `<${ContextRoot.name}></${ContextRoot.name}`],
+    [ContextMenuRoot, ContextMenuRoot.name, `<${ContextMenuRoot.name}></${ContextMenuRoot.name}`],
     [ContextSeparator, ContextSeparator.name, `<${ContextSeparator.name}></${ContextSeparator.name}`],
     [ContextSub, ContextSub.name, `<${ContextSub.name}></${ContextSub.name}`],
     [ContextSubContent, ContextSubContent.name, `<${ContextSubContent.name}></${ContextSubContent.name}`],
@@ -535,22 +531,22 @@ export function getComponentMap() {
     [DrawerHeader, DrawerHeader.name, `<${DrawerHeader.name}></${DrawerHeader.name}`],
     [DrawerTitle, DrawerTitle.name, `<${DrawerTitle.name}></${DrawerTitle.name}`],
     [DrawerTrigger, DrawerTrigger.name, `<${DrawerTrigger.name}></${DrawerTrigger.name}`],
-    [DropdownArrow, DropdownArrow.name, `<${DropdownArrow.name}></${DropdownArrow.name}`],
-    [DropdownCheckboxItem, DropdownCheckboxItem.name, `<${DropdownCheckboxItem.name}></${DropdownCheckboxItem.name}`],
-    [DropdownContent, DropdownContent.name, `<${DropdownContent.name}></${DropdownContent.name}`],
-    [DropdownGroup, DropdownGroup.name, `<${DropdownGroup.name}></${DropdownGroup.name}`],
-    [DropdownItem, DropdownItem.name, `<${DropdownItem.name}></${DropdownItem.name}`],
-    [DropdownItemIndicator, DropdownItemIndicator.name, `<${DropdownItemIndicator.name}></${DropdownItemIndicator.name}`],
-    [DropdownLabel, DropdownLabel.name, `<${DropdownLabel.name}></${DropdownLabel.name}`],
-    [DropdownPortal, DropdownPortal.name, `<${DropdownPortal.name}></${DropdownPortal.name}`],
-    [DropdownRadioGroup, DropdownRadioGroup.name, `<${DropdownRadioGroup.name}></${DropdownRadioGroup.name}`],
-    [DropdownRadioItem, DropdownRadioItem.name, `<${DropdownRadioItem.name}></${DropdownRadioItem.name}`],
-    [DropdownRoot, DropdownRoot.name, `<${DropdownRoot.name}></${DropdownRoot.name}`],
-    [DropdownSeparator, DropdownSeparator.name, `<${DropdownSeparator.name}></${DropdownSeparator.name}`],
-    [DropdownSub, DropdownSub.name, `<${DropdownSub.name}></${DropdownSub.name}`],
-    [DropdownSubContent, DropdownSubContent.name, `<${DropdownSubContent.name}></${DropdownSubContent.name}`],
-    [DropdownSubTrigger, DropdownSubTrigger.name, `<${DropdownSubTrigger.name}></${DropdownSubTrigger.name}`],
-    [DropdownTrigger, DropdownTrigger.name, `<${DropdownTrigger.name}></${DropdownTrigger.name}`],
+    [DropdownMenuArrow, DropdownMenuArrow.name, `<${DropdownMenuArrow.name}></${DropdownMenuArrow.name}`],
+    [DropdownMenuCheckboxItem, DropdownMenuCheckboxItem.name, `<${DropdownMenuCheckboxItem.name}></${DropdownMenuCheckboxItem.name}`],
+    [DropdownMenuContent, DropdownMenuContent.name, `<${DropdownMenuContent.name}></${DropdownMenuContent.name}`],
+    [DropdownMenuGroup, DropdownMenuGroup.name, `<${DropdownMenuGroup.name}></${DropdownMenuGroup.name}`],
+    [DropdownMenuItem, DropdownMenuItem.name, `<${DropdownMenuItem.name}></${DropdownMenuItem.name}`],
+    [DropdownMenuItemIndicator, DropdownMenuItemIndicator.name, `<${DropdownMenuItemIndicator.name}></${DropdownMenuItemIndicator.name}`],
+    [DropdownMenuLabel, DropdownMenuLabel.name, `<${DropdownMenuLabel.name}></${DropdownMenuLabel.name}`],
+    [DropdownMenuPortal, DropdownMenuPortal.name, `<${DropdownMenuPortal.name}></${DropdownMenuPortal.name}`],
+    [DropdownMenuRadioGroup, DropdownMenuRadioGroup.name, `<${DropdownMenuRadioGroup.name}></${DropdownMenuRadioGroup.name}`],
+    [DropdownMenuRadioItem, DropdownMenuRadioItem.name, `<${DropdownMenuRadioItem.name}></${DropdownMenuRadioItem.name}`],
+    [DropdownMenuRoot, DropdownMenuRoot.name, `<${DropdownMenuRoot.name}></${DropdownMenuRoot.name}`],
+    [DropdownMenuSeparator, DropdownMenuSeparator.name, `<${DropdownMenuSeparator.name}></${DropdownMenuSeparator.name}`],
+    [DropdownMenuSub, DropdownMenuSub.name, `<${DropdownMenuSub.name}></${DropdownMenuSub.name}`],
+    [DropdownMenuSubContent, DropdownMenuSubContent.name, `<${DropdownMenuSubContent.name}></${DropdownMenuSubContent.name}`],
+    [DropdownMenuSubTrigger, DropdownMenuSubTrigger.name, `<${DropdownMenuSubTrigger.name}></${DropdownMenuSubTrigger.name}`],
+    [DropdownMenuTrigger, DropdownMenuTrigger.name, `<${DropdownMenuTrigger.name}></${DropdownMenuTrigger.name}`],
     [Form, Form.name, `<${Form.name}></${Form.name}`],
     [FormControl, FormControl.name, `<${FormControl.name}></${FormControl.name}`],
     [FormDescription, FormDescription.name, `<${FormDescription.name}></${FormDescription.name}`],
@@ -558,11 +554,11 @@ export function getComponentMap() {
     [FormItem, FormItem.name, `<${FormItem.name}></${FormItem.name}`],
     [FormLabel, FormLabel.name, `<${FormLabel.name}></${FormLabel.name}`],
     [FormMessage, FormMessage.name, `<${FormMessage.name}></${FormMessage.name}`],
-    [HoverArrow, HoverArrow.name, `<${HoverArrow.name}></${HoverArrow.name}`],
-    [HoverContent, HoverContent.name, `<${HoverContent.name}></${HoverContent.name}`],
-    [HoverPortal, HoverPortal.name, `<${HoverPortal.name}></${HoverPortal.name}`],
-    [HoverRoot, HoverRoot.name, `<${HoverRoot.name}></${HoverRoot.name}`],
-    [HoverTrigger, HoverTrigger.name, `<${HoverTrigger.name}></${HoverTrigger.name}`],
+    [HoverCardArrow, HoverCardArrow.name, `<${HoverCardArrow.name}></${HoverCardArrow.name}`],
+    [HoverCardContent, HoverCardContent.name, `<${HoverCardContent.name}></${HoverCardContent.name}`],
+    [HoverCardPortal, HoverCardPortal.name, `<${HoverCardPortal.name}></${HoverCardPortal.name}`],
+    [HoverCardRoot, HoverCardRoot.name, `<${HoverCardRoot.name}></${HoverCardRoot.name}`],
+    [HoverCardTrigger, HoverCardTrigger.name, `<${HoverCardTrigger.name}></${HoverCardTrigger.name}`],
     [Input, Input.name, `<${Input.name}></${Input.name}`],
     [InputOTP, InputOTP.name, `<${InputOTP.name}></${InputOTP.name}`],
     [InputOTPGroup, InputOTPGroup.name, `<${InputOTPGroup.name}></${InputOTPGroup.name}`],
@@ -586,15 +582,15 @@ export function getComponentMap() {
     [MenuSubContent, MenuSubContent.name, `<${MenuSubContent.name}></${MenuSubContent.name}`],
     [MenuSubTrigger, MenuSubTrigger.name, `<${MenuSubTrigger.name}></${MenuSubTrigger.name}`],
     [MenuTrigger, MenuTrigger.name, `<${MenuTrigger.name}></${MenuTrigger.name}`],
-    [NavigationContent, NavigationContent.name, `<${NavigationContent.name}></${NavigationContent.name}`],
-    [NavigationIndicator, NavigationIndicator.name, `<${NavigationIndicator.name}></${NavigationIndicator.name}`],
-    [NavigationItem, NavigationItem.name, `<${NavigationItem.name}></${NavigationItem.name}`],
-    [NavigationLink, NavigationLink.name, `<${NavigationLink.name}></${NavigationLink.name}`],
-    [NavigationList, NavigationList.name, `<${NavigationList.name}></${NavigationList.name}`],
-    [NavigationRoot, NavigationRoot.name, `<${NavigationRoot.name}></${NavigationRoot.name}`],
-    [NavigationSub, NavigationSub.name, `<${NavigationSub.name}></${NavigationSub.name}`],
-    [NavigationTrigger, NavigationTrigger.name, `<${NavigationTrigger.name}></${NavigationTrigger.name}`],
-    [NavigationViewport, NavigationViewport.name, `<${NavigationViewport.name}></${NavigationViewport.name}`],
+    [NavigationMenuContent, NavigationMenuContent.name, `<${NavigationMenuContent.name}></${NavigationMenuContent.name}`],
+    [NavigationMenuIndicator, NavigationMenuIndicator.name, `<${NavigationMenuIndicator.name}></${NavigationMenuIndicator.name}`],
+    [NavigationMenuItem, NavigationMenuItem.name, `<${NavigationMenuItem.name}></${NavigationMenuItem.name}`],
+    [NavigationMenuLink, NavigationMenuLink.name, `<${NavigationMenuLink.name}></${NavigationMenuLink.name}`],
+    [NavigationMenuList, NavigationMenuList.name, `<${NavigationMenuList.name}></${NavigationMenuList.name}`],
+    [NavigationMenuRoot, NavigationMenuRoot.name, `<${NavigationMenuRoot.name}></${NavigationMenuRoot.name}`],
+    [NavigationMenuSub, NavigationMenuSub.name, `<${NavigationMenuSub.name}></${NavigationMenuSub.name}`],
+    [NavigationMenuTrigger, NavigationMenuTrigger.name, `<${NavigationMenuTrigger.name}></${NavigationMenuTrigger.name}`],
+    [NavigationMenuViewport, NavigationMenuViewport.name, `<${NavigationMenuViewport.name}></${NavigationMenuViewport.name}`],
     [Pagination, Pagination.name, `<${Pagination.name}></${Pagination.name}`],
     [PaginationContent, PaginationContent.name, `<${PaginationContent.name}></${PaginationContent.name}`],
     [PaginationEllipsis, PaginationEllipsis.name, `<${PaginationEllipsis.name}></${PaginationEllipsis.name}`],
@@ -611,14 +607,14 @@ export function getComponentMap() {
     [PopoverTrigger, PopoverTrigger.name, `<${PopoverTrigger.name}></${PopoverTrigger.name}`],
     [ProgressIndicator, ProgressIndicator.name, `<${ProgressIndicator.name}></${ProgressIndicator.name}`],
     [ProgressRoot, ProgressRoot.name, `<${ProgressRoot.name}></${ProgressRoot.name}`],
-    [RadioIndicator, RadioIndicator.name, `<${RadioIndicator.name}></${RadioIndicator.name}`],
-    [RadioItem, RadioItem.name, `<${RadioItem.name}></${RadioItem.name}`],
-    [RadioRoot, RadioRoot.name, `<${RadioRoot.name}></${RadioRoot.name}`],
+    [RadioGroupIndicator, RadioGroupIndicator.name, `<${RadioGroupIndicator.name}></${RadioGroupIndicator.name}`],
+    [RadioGroupItem, RadioGroupItem.name, `<${RadioGroupItem.name}></${RadioGroupItem.name}`],
+    [RadioGroupRoot, RadioGroupRoot.name, `<${RadioGroupRoot.name}></${RadioGroupRoot.name}`],
     [ResizableHandle, ResizableHandle.name, `<${ResizableHandle.name}></${ResizableHandle.name}`],
     [ResizablePanel, ResizablePanel.name, `<${ResizablePanel.name}></${ResizablePanel.name}`],
     [ResizablePanelGroup, ResizablePanelGroup.name, `<${ResizablePanelGroup.name}></${ResizablePanelGroup.name}`],
     [ScrollCorner, ScrollCorner.name, `<${ScrollCorner.name}></${ScrollCorner.name}`],
-    [ScrollRoot, ScrollRoot.name, `<${ScrollRoot.name}></${ScrollRoot.name}`],
+    [ScrollAreaRoot, ScrollAreaRoot.name, `<${ScrollAreaRoot.name}></${ScrollAreaRoot.name}`],
     [ScrollScrollbar, ScrollScrollbar.name, `<${ScrollScrollbar.name}></${ScrollScrollbar.name}`],
     [ScrollThumb, ScrollThumb.name, `<${ScrollThumb.name}></${ScrollThumb.name}`],
     [ScrollViewport, ScrollViewport.name, `<${ScrollViewport.name}></${ScrollViewport.name}`],
@@ -670,8 +666,9 @@ export function getComponentMap() {
     [ToastRoot, ToastRoot.name, `<${ToastRoot.name}></${ToastRoot.name}`],
     [ToastTitle, ToastTitle.name, `<${ToastTitle.name}></${ToastTitle.name}`],
     [ToastViewport, ToastViewport.name, `<${ToastViewport.name}></${ToastViewport.name}`],
-    [ToggleItem, ToggleItem.name, `<${ToggleItem.name}></${ToggleItem.name}`],
+    [ToggleGroupItem, ToggleGroupItem.name, `<${ToggleGroupItem.name}></${ToggleGroupItem.name}`],
     [ToggleRoot, ToggleRoot.name, `<${ToggleRoot.name}></${ToggleRoot.name}`],
+    [ToggleGroupRoot, ToggleGroupRoot.name, `<${ToggleGroupRoot.name}></${ToggleGroupRoot.name}`],
     [TooltipArrow, TooltipArrow.name, `<${TooltipArrow.name}></${TooltipArrow.name}`],
     [TooltipContent, TooltipContent.name, `<${TooltipContent.name}></${TooltipContent.name}`],
     [TooltipPortal, TooltipPortal.name, `<${TooltipPortal.name}></${TooltipPortal.name}`],

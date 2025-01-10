@@ -13,7 +13,7 @@
       "value": "",
       "required": false,
       "default": "foreground",
-      "type": "enumSee",
+      "type": "foreground / background",
       "description": "",
       "description_zh": ""
     },

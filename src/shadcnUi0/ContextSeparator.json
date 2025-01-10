@@ -1,5 +1,5 @@
 {
-  "name": "Context.Separator",
+  "name": "ContextMenu.Separator",
   "props": {
     "asChild": {
       "value": "",
@@ -17,6 +17,6 @@
   "events": [],
   "methods": [],
   "slots": [],
-  "filename": "ContextSeparator",
+  "filename": "ContextMenuSeparator",
   "suggestions": []
 }

@@ -13,7 +13,7 @@
       "value": "",
       "required": false,
       "default": "item-aligned",
-      "type": "enumSee",
+      "type": "item-aligned / popper",
       "description": "",
       "description_zh": ""
     },
@@ -21,7 +21,7 @@
       "value": "",
       "required": false,
       "default": "bottom",
-      "type": "enumSee",
+      "type": "top / right / bottom / left",
       "description": "",
       "description_zh": ""
     },
@@ -37,7 +37,7 @@
       "value": "",
       "required": false,
       "default": "start",
-      "type": "enumSee",
+      "type": "start / center / end",
       "description": "",
       "description_zh": ""
     },
@@ -61,7 +61,7 @@
       "value": "",
       "required": false,
       "default": "[]",
-      "type": "BoundarySee",
+      "type": "Element | null | Array<Element | null>",
       "description": "",
       "description_zh": ""
     },
@@ -85,7 +85,7 @@
       "value": "",
       "required": false,
       "default": "partial",
-      "type": "enumSee",
+      "type": "partial / always",
       "description": "",
       "description_zh": ""
     },

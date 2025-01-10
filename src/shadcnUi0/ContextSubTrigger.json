@@ -1,5 +1,5 @@
 {
-  "name": "Context.SubTrigger",
+  "name": "ContextMenu.SubTrigger",
   "props": {
     "asChild": {
       "value": "",
@@ -33,6 +33,6 @@
   "events": [],
   "methods": [],
   "slots": [],
-  "filename": "ContextSubTrigger",
+  "filename": "ContextMenuSubTrigger",
   "suggestions": []
 }

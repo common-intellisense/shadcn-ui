@@ -1,5 +1,5 @@
 {
-  "name": "Context.CheckboxItem",
+  "name": "ContextMenu.CheckboxItem",
   "props": {
     "asChild": {
       "value": "",
@@ -52,6 +52,6 @@
   ],
   "methods": [],
   "slots": [],
-  "filename": "ContextCheckboxItem",
+  "filename": "ContextMenuCheckboxItem",
   "suggestions": []
 }

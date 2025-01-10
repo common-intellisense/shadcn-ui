@@ -1,5 +1,5 @@
 {
-  "name": "Context.RadioItem",
+  "name": "ContextMenu.RadioItem",
   "props": {
     "asChild": {
       "value": "",
@@ -47,6 +47,6 @@
   ],
   "methods": [],
   "slots": [],
-  "filename": "ContextRadioItem",
+  "filename": "ContextMenuRadioItem",
   "suggestions": []
 }

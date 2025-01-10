@@ -13,7 +13,7 @@
       "value": "",
       "required": true,
       "default": "No default value",
-      "type": "enumSee",
+      "type": "single / multiple",
       "description": "",
       "description_zh": ""
     },
@@ -53,7 +53,7 @@
       "value": "",
       "required": false,
       "default": "ltr",
-      "type": "enumSee",
+      "type": "ltr / rtl",
       "description": "",
       "description_zh": ""
     },
@@ -61,7 +61,7 @@
       "value": "",
       "required": false,
       "default": "vertical",
-      "type": "enumSee",
+      "type": "horizontal / vertical",
       "description": "",
       "description_zh": ""
     }

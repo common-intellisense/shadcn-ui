@@ -1,5 +1,5 @@
 {
-  "name": "Context.Sub",
+  "name": "ContextMenu.Sub",
   "props": {
     "defaultOpen": {
       "value": "",
@@ -31,6 +31,6 @@
   ],
   "methods": [],
   "slots": [],
-  "filename": "ContextSub",
+  "filename": "ContextMenuSub",
   "suggestions": []
 }

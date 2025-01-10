@@ -21,7 +21,7 @@
       "value": "",
       "required": false,
       "default": "right",
-      "type": "enumSee",
+      "type": "right / left / up / down",
       "description": "",
       "description_zh": ""
     },

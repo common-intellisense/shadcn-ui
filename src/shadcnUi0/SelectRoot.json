@@ -37,7 +37,7 @@
       "value": "",
       "required": false,
       "default": "No default value",
-      "type": "enumSee",
+      "type": "ltr / rtl",
       "description": "",
       "description_zh": ""
     },
